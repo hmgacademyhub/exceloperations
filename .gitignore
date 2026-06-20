@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Streamlit secrets - do not commit real credentials
+.streamlit/secrets.toml
+
+# Local exports
+*.xlsx
+report*.html
+!seo/*.html
+!sample_*.csv
+
+# Local data exports (keep sample_data/)
+*.csv
+!sample_data/*.csv
+
+# Usage analytics log (runtime artifact)
+*.db
+hmg_usage.db
+
+# OS
+.DS_Store
+Thumbs.db
