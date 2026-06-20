@@ -1,0 +1,506 @@
+Date,Region,Product,Channel,Units,Unit Price,Discount Rate,Revenue,Cost,Profit,Customer Segment
+2025-12-24,Ibadan,Workbook,Corporate,28,5000,0.0,140000.0,82597.51,57402.49,Corporate
+2025-03-17,Enugu,Support,Church Network,44,10000,0.05,418000.0,298222.38,119777.62,Parent
+2025-01-12,Lagos,Software,Referral,14,7500,0.0,105000.0,44279.42,60720.58,Student
+2025-09-26,Lagos,Consulting,Online,6,5000,0.1,27000.0,19090.21,7909.79,Parent
+2025-06-03,Abuja,Workbook,Church Network,37,5000,0.1,166500.0,116786.35,49713.65,School
+2025-07-16,Lagos,Support,Corporate,38,25000,0.0,950000.0,655237.17,294762.83,Student
+2025-02-03,Lagos,Support,Corporate,8,7500,0.1,54000.0,27363.03,26636.97,Corporate
+2025-06-05,Enugu,Consulting,Referral,32,10000,0.0,320000.0,204821.54,115178.46,Parent
+2025-09-28,Abuja,Consulting,Church Network,27,7500,0.05,192375.0,101915.0,90460.0,Corporate
+2025-05-30,Ibadan,Training,Online,39,2500,0.0,97500.0,63701.99,33798.01,School
+2025-12-16, Lagos ,Software,Corporate,5,5000,0.0,25000.0,11188.29,13811.71,Church
+2025-11-29,Kano,Consulting,Online,9,15000,0.15,114750.0,72499.53,42250.47,School
+2025-10-23,Lagos,Consulting,Church Network,6,25000,0.1,135000.0,55316.0,79684.0,Parent
+2026-01-16,Port Harcourt,Consulting,Church Network,53,10000,0.0,530000.0,242976.63,287023.37,Church
+2025-10-30,Lagos,Training,School Visit,37,10000,0.0,370000.0,187953.75,182046.25,Church
+2025-03-16,Enugu,Training,Corporate,9,7500,0.0,67500.0,27366.5,40133.5,Parent
+2025-12-27,Port Harcourt,Workbook,Online,1,25000,0.0,25000.0,11300.7,13699.3,Church
+2025-10-02,Enugu,Workbook,Corporate,45,10000,0.0,450000.0,276576.12,173423.88,Student
+2025-02-11,Port Harcourt,Consulting,Referral,27,10000,0.0,270000.0,165583.8,104416.2,Student
+2025-05-06,Ibadan,Software,Church Network,1,10000,0.0,10000.0,6595.27,3404.73,Church
+2025-03-11,Lagos,Consulting,Online,36,10000,0.0,360000.0,246974.42,113025.58,Student
+2026-02-11,Enugu,Workbook,Corporate,39,25000,0.0,975000.0,433802.8,541197.2,Student
+2025-11-02,Enugu,Consulting,Online,23,10000,0.1,207000.0,129411.73,77588.27,Parent
+2026-01-22,Ibadan,Workbook,Corporate,17,15000,0.05,242250.0,98790.73,143459.27,Corporate
+2025-04-29,Abuja,Training,Referral,9,7500,0.1,60750.0,36466.79,24283.21,Corporate
+2025-09-25,Port Harcourt,Support,School Visit,21,5000,0.05,99750.0,35592.74,64157.26,Church
+2025-09-11,Port Harcourt,Consulting,Church Network,42,2500,0.0,105000.0,38188.65,66811.35,Corporate
+2025-11-13,Kano,Consulting,Church Network,48,7500,0.05,342000.0,225515.05,116484.95,School
+2025-02-19,Abuja,Software,School Visit,12,10000,0.1,108000.0,66686.62,41313.38,Student
+2025-08-05,Ibadan,Workbook,Corporate,22,2500,0.15,46750.0,21532.93,25217.07,Student
+2025-09-28,Kano,Software,Church Network,25,25000,0.0,625000.0,391927.93,233072.07,School
+2025-12-13,Abuja,Support,School Visit,29,7500,0.1,195750.0,91177.28,104572.72,School
+2025-10-03,Kano,Software,Online,22,25000,0.05,522500.0,290864.98,231635.02,School
+2025-07-08,Ibadan,Workbook,Referral,34,15000,0.0,510000.0,324588.97,185411.03,Student
+2025-07-13,Abuja,Consulting,School Visit,36,2500,0.05,85500.0,35981.74,49518.26,Parent
+2025-05-23,Lagos,Workbook,Corporate,1,7500,0.0,7500.0,3632.92,3867.08,Corporate
+2025-03-08,Enugu,Support,School Visit,1,2500,0.0,2500.0,1201.49,1298.51,Parent
+2025-04-27,Enugu,Workbook,Online,38,15000,0.0,570000.0,341401.63,228598.37,School
+2025-03-03,Lagos,Workbook,Referral,44,7500,0.05,313500.0,134823.64,178676.36,Church
+2025-04-06,Ibadan,Training,School Visit,52,5000,0.0,260000.0,150536.98,109463.02,Church
+2025-12-25,Lagos,Workbook,Online,29,15000,0.0,435000.0,273661.48,161338.52,Church
+2025-08-09,Lagos,Software,Corporate,22,10000,0.0,,95794.64,124205.36,Student
+2025-02-08,Lagos,Support,Referral,11,2500,0.0,27500.0,13337.61,14162.39,Parent
+2025-06-30,Enugu,Support,Church Network,46,2500,0.05,109250.0,40022.49,69227.51,School
+2025-04-24,Ibadan,Software,Church Network,7,2500,0.0,17500.0,9602.76,7897.24,School
+2025-10-06,Enugu,Support,Church Network,13,2500,0.05,30875.0,16569.34,14305.66,Student
+2025-12-15,Kano,Training,School Visit,26,7500,0.1,175500.0,105959.41,69540.59,Student
+2025-01-06,Kano,Workbook,School Visit,30,7500,0.15,191250.0,105258.21,85991.79,School
+2025-07-15,Lagos,Consulting,Online,31,7500,0.0,232500.0,155697.59,76802.41,Corporate
+2025-07-08,Port Harcourt,Consulting,Referral,14,25000,0.0,350000.0,231949.78,118050.22,Corporate
+2026-02-21,Ibadan,Support,School Visit,14,10000,0.0,140000.0,55034.61,84965.39,Student
+2025-06-03,Ibadan,Software,School Visit,12,15000,0.0,180000.0,102315.68,77684.32,School
+2025-03-11,Lagos,Workbook,Corporate,17,5000,0.0,85000.0,51268.65,33731.35,Corporate
+2025-03-24,Lagos,Support,Church Network,35,5000,0.05,166250.0,86675.06,79574.94,Church
+2025-07-20,Ibadan,Consulting,Corporate,12,5000,0.0,60000.0,27111.7,32888.3,Parent
+2025-09-07,Lagos,Support,School Visit,2,5000,0.0,10000.0,4056.5,5943.5,Student
+2025-05-18,Enugu,Consulting,School Visit,36,15000,0.0,540000.0,339292.79,200707.21,Parent
+2025-07-02,Abuja,Consulting,Church Network,54,2500,0.0,135000.0,48087.03,86912.97,Parent
+2025-10-06,Enugu,Software,School Visit,41,2500,0.1,92250.0,50238.74,42011.26,Corporate
+2025-05-06,Port Harcourt,Support,Corporate,38,10000,0.0,380000.0,272733.18,107266.82,Student
+2026-02-10, Lagos ,Training,School Visit,22,2500,0.0,,33911.34,21088.66,Parent
+2025-03-29,Kano,Software,Church Network,15,25000,0.05,356250.0,146610.14,209639.86,Student
+2026-01-28,Enugu,Workbook,Corporate,36,2500,0.0,90000.0,59759.56,30240.44,Church
+2026-01-03,Abuja,Support,Church Network,33,10000,0.05,313500.0,185903.1,127596.9,Student
+2026-02-06,Port Harcourt,Software,Referral,41,7500,0.0,307500.0,196601.5,110898.5,Student
+2025-12-01,Lagos,Training,Corporate,3,15000,0.05,42750.0,19192.53,23557.47,Church
+2025-08-11,Kano,Software,Corporate,13,25000,0.0,325000.0,227086.17,97913.83,School
+2025-09-12,Kano,Support,School Visit,36,7500,0.0,270000.0,162273.26,107726.74,School
+2025-03-28,Lagos,Training,Corporate,50,10000,0.05,475000.0,207533.26,267466.74,Church
+2025-05-25,Enugu,Software,Referral,46,15000,0.0,690000.0,329845.33,360154.67,School
+2025-07-14,Enugu,Training,School Visit,41,7500,0.1,276750.0,114997.93,161752.07,Corporate
+2026-02-02,Enugu,Training,Church Network,44,7500,0.1,297000.0,105017.72,191982.28,Church
+2025-11-30,Kano,Consulting,Online,51,7500,0.0,382500.0,144366.9,238133.1,Student
+2025-08-25,Kano,Workbook,Corporate,7,15000,0.0,105000.0,42679.95,62320.05,Parent
+2025-09-07,Abuja,Software,Corporate,43,25000,0.05,1021250.0,686478.13,334771.87,Parent
+2025-07-01,Enugu,Training,Corporate,8,5000,0.0,40000.0,23016.62,16983.38,Corporate
+2025-06-26,Abuja,Training,Online,25,5000,0.05,118750.0,61089.38,57660.62,School
+2026-01-14,Ibadan,Software,Online,36,15000,0.0,540000.0,292812.42,247187.58,School
+2025-01-02,Kano,Consulting,Referral,19,7500,0.0,142500.0,99570.95,42929.05,Church
+2025-05-15,Kano,Workbook,School Visit,16,5000,0.0,80000.0,39589.12,40410.88,Corporate
+2025-06-21,Abuja,Workbook,School Visit,13,2500,0.05,30875.0,15391.24,15483.76,School
+2025-10-20,Port Harcourt,Workbook,Online,51,7500,0.05,363375.0,150919.29,212455.71,Church
+2025-06-22,Port Harcourt,Consulting,Church Network,2,10000,0.05,19000.0,7689.87,11310.13,Student
+2025-05-12,Port Harcourt,Support,School Visit,31,5000,0.1,139500.0,50020.09,89479.91,Church
+2025-02-02,Abuja,Training,Referral,7,15000,0.15,89250.0,49529.92,39720.08,School
+2025-04-20,Enugu,Software,School Visit,31,7500,0.0,232500.0,130332.95,102167.05,School
+2025-02-14,Abuja,Workbook,School Visit,40,5000,0.05,190000.0,103562.09,86437.91,Corporate
+2025-10-22,Port Harcourt,Training,Referral,42,5000,0.0,210000.0,130900.4,79099.6,Corporate
+2025-06-29,Lagos,Support,Church Network,11,7500,0.0,82500.0,33390.14,49109.86,Student
+2025-04-06,Kano,Software,Corporate,48,10000,0.1,432000.0,243507.32,188492.68,Church
+2025-08-15,Kano,Training,Referral,18,10000,0.0,180000.0,125915.48,54084.52,School
+2025-07-27,Port Harcourt,Workbook,Church Network,25,10000,0.0,250000.0,143575.9,106424.1,Church
+2025-07-18,Lagos,Training,Online,50,7500,0.0,375000.0,239114.34,135885.66,Student
+2025-09-01,Lagos,Training,Referral,31,5000,0.05,147250.0,79162.66,68087.34,Student
+2025-09-21,Abuja,Consulting,School Visit,46,25000,0.1,1035000.0,404218.75,630781.25,Parent
+2025-03-21,Lagos,Consulting,Church Network,5,15000,0.05,,50905.75,20344.25,Parent
+2025-03-07,Abuja,Support,Referral,46,25000,0.05,1092500.0,523220.38,569279.62,Corporate
+2025-11-04,Ibadan,Workbook,Referral,50,10000,0.0,500000.0,207127.75,292872.25,Church
+2026-02-13,Ibadan,Workbook,Corporate,8,15000,0.0,120000.0,67403.88,52596.12,Corporate
+2025-08-19,Kano,Support,Referral,49,25000,0.0,1225000.0,483230.09,741769.91,Student
+2025-07-09,Enugu,Training,Referral,31,5000,0.1,139500.0,68036.85,71463.15,Student
+2025-09-19,Kano,Support,Church Network,3,25000,0.0,75000.0,41416.1,33583.9,School
+2025-01-15,Port Harcourt,Training,Online,40,10000,0.0,400000.0,141141.55,258858.45,School
+2025-06-06,Port Harcourt,Training,Church Network,19,25000,0.15,403750.0,273806.0,129944.0,School
+2025-05-31,Enugu,Training,School Visit,13,25000,0.0,325000.0,142792.6,182207.4,School
+2025-06-26,Lagos,Workbook,Church Network,49,25000,0.05,1163750.0,654250.7,509499.3,Parent
+2025-11-09,Kano,Support,Corporate,16,25000,0.0,400000.0,239647.7,160352.3,School
+2025-07-27,Ibadan,Support,Referral,32,25000,0.1,720000.0,360364.7,359635.3,Parent
+2025-12-26,Port Harcourt,Training,Referral,17,15000,0.0,255000.0,174999.65,80000.35,Student
+2025-07-17,Abuja,Software,Online,18,25000,0.05,427500.0,272867.03,154632.97,Church
+2025-01-15,Abuja,Support,Church Network,31,25000,0.15,658750.0,392044.61,266705.39,School
+2025-10-11,Abuja,Support,School Visit,20,25000,0.05,475000.0,269733.82,205266.18,Student
+2025-12-02,Lagos,Consulting,Corporate,28,10000,0.0,280000.0,180758.83,99241.17,Church
+2025-08-31,Ibadan,Workbook,Church Network,36,7500,0.15,229500.0,88134.33,141365.67,Student
+2026-01-29, Lagos ,Consulting,Corporate,29,5000,0.1,130500.0,88130.61,42369.39,Parent
+2025-06-24,Port Harcourt,Consulting,Corporate,38,2500,0.05,90250.0,42472.72,47777.28,Corporate
+2025-12-01,Enugu,Support,Corporate,45,15000,0.0,675000.0,248625.47,426374.53,Parent
+2025-01-01,Port Harcourt,Workbook,Corporate,8,25000,0.1,180000.0,87341.32,92658.68,Church
+2025-01-17,Lagos,Workbook,Corporate,7,10000,0.1,63000.0,29920.44,33079.56,Church
+2025-11-30,Lagos,Workbook,Corporate,25,5000,0.05,118750.0,85498.09,33251.91,School
+2026-01-02,Port Harcourt,Consulting,Referral,39,5000,0.0,195000.0,89046.4,105953.6,School
+2025-08-07,Abuja,Support,Referral,46,25000,0.15,977500.0,466512.43,510987.57,Church
+2025-11-13,Enugu,Workbook,School Visit,25,2500,0.0,62500.0,41137.16,21362.84,Parent
+2025-05-18,Enugu,Consulting,Corporate,46,25000,0.0,1150000.0,747410.06,402589.94,Parent
+2025-11-02,Enugu,Workbook,Online,11,5000,0.15,46750.0,24338.7,22411.3,Student
+2025-07-29,Ibadan,Consulting,Corporate,38,10000,0.05,361000.0,242856.27,118143.73,Church
+2025-05-08,Port Harcourt,Workbook,Referral,37,25000,0.0,925000.0,328867.75,596132.25,Parent
+2025-02-09,Enugu,Software,Referral,44,5000,0.05,209000.0,129177.19,79822.81,School
+2025-03-15,Ibadan,Support,Referral,1,2500,0.15,2125.0,806.33,1318.67,Corporate
+2026-01-15,Enugu,Workbook,Online,38,10000,0.15,323000.0,133505.52,189494.48,Parent
+2025-07-06,Abuja,Software,Referral,29,25000,0.0,725000.0,511648.79,213351.21,Student
+2026-02-20,Abuja,Workbook,Online,46,25000,0.0,1150000.0,822610.15,327389.85,Parent
+2025-05-29,Lagos,Training,Corporate,46,7500,0.0,345000.0,201947.64,143052.36,Church
+2025-01-25,Port Harcourt,Support,Church Network,20,5000,0.0,100000.0,51585.36,48414.64,School
+2025-04-18,Kano,Support,Church Network,31,5000,0.0,155000.0,104298.38,50701.62,Parent
+2025-05-31,Ibadan,Software,Corporate,4,25000,0.0,100000.0,50329.5,49670.5,Student
+2025-10-22,Ibadan,Training,Online,6,10000,0.1,54000.0,29903.11,24096.89,Student
+2025-11-03,Lagos,Software,Referral,6,15000,0.0,,35159.49,54840.51,Church
+2025-11-06,Lagos,Consulting,Corporate,35,15000,0.0,525000.0,284275.72,240724.28,School
+2025-05-12, Lagos ,Support,Corporate,33,25000,0.1,742500.0,296816.31,445683.69,Corporate
+2025-06-09,Port Harcourt,Training,Referral,50,5000,0.0,250000.0,117084.75,132915.25,Student
+2025-08-27,Enugu,Software,Referral,1,7500,0.0,7500.0,3309.46,4190.54,Corporate
+2025-09-12,Kano,Consulting,Online,46,10000,0.05,437000.0,271341.19,165658.81,Student
+2025-06-24,Kano,Support,Church Network,46,25000,0.0,1150000.0,678971.82,471028.18,School
+2025-03-21,Abuja,Software,Church Network,9,25000,0.0,225000.0,148372.74,76627.26,Corporate
+2025-11-22,Port Harcourt,Software,Online,11,5000,0.1,49500.0,33618.4,15881.6,Parent
+2025-08-07,Enugu,Workbook,Church Network,45,25000,0.0,1125000.0,439591.79,685408.21,Parent
+2026-02-07,Kano,Workbook,Church Network,45,15000,0.05,641250.0,459300.76,181949.24,Student
+2026-02-02,Kano,Software,Referral,45,15000,0.0,675000.0,448899.41,226100.59,School
+2026-01-09,Ibadan,Consulting,Online,20,25000,0.15,425000.0,204146.09,220853.91,School
+2026-02-08,Lagos,Workbook,Referral,44,2500,0.0,110000.0,61735.53,48264.47,Parent
+2025-09-18,Kano,Consulting,School Visit,6,10000,0.15,51000.0,19235.62,31764.38,Parent
+2025-05-06,Port Harcourt,Consulting,School Visit,54,2500,0.05,128250.0,54944.73,73305.27,Student
+2025-03-09,Abuja,Workbook,Referral,20,2500,0.15,42500.0,19849.44,22650.56,Parent
+2025-02-14,Kano,Software,School Visit,10,5000,0.0,50000.0,26935.61,23064.39,Student
+2026-02-02,Port Harcourt,Training,Church Network,1,25000,0.0,25000.0,9578.57,15421.43,Church
+2025-04-24,Abuja,Support,Corporate,41,10000,0.0,410000.0,293649.86,116350.14,School
+2025-01-10,Enugu,Training,Corporate,11,10000,0.15,93500.0,64018.68,29481.32,Student
+2025-01-16, Lagos ,Workbook,Church Network,1,2500,0.0,2500.0,1234.49,1265.51,Parent
+2025-05-06,Kano,Software,Referral,8,5000,0.0,40000.0,26174.5,13825.5,Church
+2026-02-16,Port Harcourt,Consulting,Referral,24,2500,0.0,60000.0,32207.89,27792.11,Corporate
+2025-04-29,Abuja,Software,Corporate,53,25000,0.1,1192500.0,524478.3,668021.7,Church
+2025-02-12,Kano,Workbook,Referral,32,7500,0.0,240000.0,132619.51,107380.49,Corporate
+2025-10-10,Enugu,Training,School Visit,24,15000,0.0,360000.0,143974.26,216025.74,Student
+2025-01-26,Abuja,Support,Corporate,30,2500,0.0,75000.0,43887.37,31112.63,School
+2025-07-24,Port Harcourt,Training,Referral,30,25000,0.05,712500.0,471291.35,241208.65,School
+2025-02-06,Ibadan,Training,Church Network,9,10000,0.0,90000.0,32915.98,57084.02,Student
+2025-02-09,Kano,Software,Referral,4,10000,0.0,40000.0,15242.3,24757.7,Church
+2025-06-01,Ibadan,Training,Referral,9,15000,0.0,135000.0,60052.08,74947.92,Parent
+2025-01-06,Kano,Workbook,Online,4,5000,0.0,20000.0,8203.74,11796.26,School
+2025-12-24,Kano,Training,Corporate,40,7500,0.0,300000.0,115225.52,184774.48,Student
+2025-09-11,Port Harcourt,Workbook,Online,33,10000,0.05,313500.0,197160.02,116339.98,Parent
+2026-01-28,Enugu,Support,Corporate,40,15000,0.1,,237302.76,302697.24,Student
+2025-07-26,Kano,Training,Corporate,19,10000,0.0,190000.0,119218.9,70781.1,Student
+2025-08-22,Enugu,Workbook,Online,28,10000,0.1,252000.0,115352.87,136647.13,Parent
+2025-09-10,Port Harcourt,Support,Online,17,10000,0.0,170000.0,87464.45,82535.55,Corporate
+2025-07-15,Enugu,Consulting,Corporate,34,5000,0.0,170000.0,105901.0,64099.0,Student
+2025-08-25,Enugu,Consulting,Church Network,9,2500,0.05,21375.0,14697.83,6677.17,School
+2025-08-29,Enugu,Workbook,School Visit,4,15000,0.0,60000.0,31202.38,28797.62,Church
+2026-01-09,Enugu,Consulting,Church Network,41,5000,0.0,205000.0,98129.72,106870.28,Student
+2025-05-08,Port Harcourt,Training,Church Network,12,7500,0.1,81000.0,48096.66,32903.34,Corporate
+2026-01-21,Enugu,Workbook,School Visit,51,5000,0.0,255000.0,112604.92,142395.08,Student
+2025-03-14,Port Harcourt,Support,Church Network,16,15000,0.15,204000.0,89230.79,114769.21,Parent
+2025-03-21,Enugu,Workbook,School Visit,20,2500,0.0,50000.0,20245.0,29755.0,Parent
+2025-04-18,Kano,Consulting,Online,42,7500,0.0,315000.0,143406.43,171593.57,Church
+2026-01-31,Lagos,Support,Online,21,7500,0.0,157500.0,87767.65,69732.35,Corporate
+2025-04-13,Lagos,Training,Church Network,12,10000,0.1,108000.0,63098.86,44901.14,School
+2025-11-27,Ibadan,Consulting,Online,16,7500,0.1,108000.0,75065.74,32934.26,Student
+2025-09-02,Abuja,Support,Online,42,5000,0.0,210000.0,95867.23,114132.77,Student
+2025-09-26,Kano,Training,Church Network,10,15000,0.0,150000.0,94032.4,55967.6,Church
+2025-02-02,Kano,Support,Online,25,15000,0.0,375000.0,218651.9,156348.1,Corporate
+2025-10-05,Ibadan,Training,Corporate,17,10000,0.0,170000.0,119106.21,50893.79,Corporate
+2025-01-30,Kano,Consulting,Referral,22,15000,0.0,330000.0,233272.43,96727.57,Corporate
+2025-08-18,Ibadan,Software,School Visit,45,7500,0.0,337500.0,176906.53,160593.47,Parent
+2025-11-27,Ibadan,Software,School Visit,35,10000,0.05,332500.0,166233.3,166266.7,Corporate
+2026-01-21,Abuja,Consulting,Referral,5,2500,0.0,12500.0,8252.48,4247.52,School
+2026-02-20,Ibadan,Consulting,Church Network,38,10000,0.15,323000.0,115693.6,207306.4,Corporate
+2025-04-08,Lagos,Support,Corporate,45,5000,0.0,225000.0,140076.21,84923.79,Student
+2025-11-19,Ibadan,Workbook,Referral,36,25000,0.0,900000.0,595008.33,304991.67,Parent
+2025-09-09,Kano,Training,Online,3,5000,0.05,14250.0,9679.0,4571.0,Parent
+2025-11-05,Kano,Software,Church Network,28,5000,0.0,140000.0,50037.53,89962.47,School
+2025-12-08,Lagos,Workbook,School Visit,30,2500,0.0,75000.0,43239.46,31760.54,Parent
+2025-07-19,Kano,Training,School Visit,2,2500,0.0,5000.0,2499.86,2500.14,School
+2025-02-26,Kano,Software,Corporate,42,5000,0.0,210000.0,78867.17,131132.83,Church
+2025-11-28,Lagos,Workbook,Referral,8,5000,0.1,36000.0,23204.93,12795.07,Parent
+2025-09-16,Lagos,Workbook,School Visit,19,7500,0.0,142500.0,71537.48,70962.52,School
+2025-02-26,Ibadan,Support,Corporate,18,2500,0.05,42750.0,24061.15,18688.85,Church
+2025-06-19,Port Harcourt,Workbook,Referral,48,5000,0.0,240000.0,116414.82,123585.18,Corporate
+2025-03-02,Port Harcourt,Training,Corporate,51,25000,0.05,1211250.0,557959.42,653290.58,Church
+2025-11-18,Lagos,Support,Referral,42,5000,0.1,189000.0,122351.09,66648.91,Church
+2025-05-21,Abuja,Consulting,Church Network,20,25000,0.0,500000.0,327988.11,172011.89,Corporate
+2025-01-29,Ibadan,Workbook,School Visit,35,15000,0.0,525000.0,212341.36,312658.64,School
+2025-04-30,Ibadan,Workbook,Church Network,36,2500,0.0,90000.0,48390.06,41609.94,Student
+2025-09-12,Abuja,Support,Corporate,20,7500,0.0,150000.0,60318.34,89681.66,School
+2025-09-06,Port Harcourt,Training,Online,14,2500,0.05,33250.0,13093.8,20156.2,Corporate
+2025-12-26,Port Harcourt,Consulting,Church Network,8,7500,0.15,51000.0,20228.49,30771.51,School
+2025-06-01,Port Harcourt,Consulting,School Visit,25,7500,0.1,168750.0,108280.73,60469.27,Corporate
+2025-09-21,Abuja,Workbook,Referral,33,15000,0.0,495000.0,316972.9,178027.1,School
+2026-02-01,Abuja,Consulting,Church Network,39,7500,0.0,292500.0,150698.44,141801.56,Church
+2025-05-15,Ibadan,Software,Referral,12,15000,0.0,180000.0,74950.3,105049.7,School
+2025-01-13,Ibadan,Training,Online,35,10000,0.1,315000.0,113176.81,201823.19,Student
+2025-10-03,Ibadan,Support,Church Network,48,15000,0.05,684000.0,259096.49,424903.51,Parent
+2025-09-10,Abuja,Support,Corporate,42,5000,0.1,189000.0,130244.49,58755.51,Parent
+2025-05-23,Abuja,Training,Church Network,48,10000,0.0,480000.0,226083.04,253916.96,Student
+2025-08-25,Abuja,Software,Referral,44,2500,0.0,,43356.6,66643.4,Student
+2025-10-08, Lagos ,Support,Online,27,2500,0.05,64125.0,44443.44,19681.56,Corporate
+2025-12-10,Enugu,Consulting,Referral,54,15000,0.0,810000.0,560750.92,249249.08,Church
+2025-02-23,Kano,Software,School Visit,38,25000,0.0,950000.0,485035.97,464964.03,Student
+2025-07-17,Port Harcourt,Support,Referral,25,2500,0.0,62500.0,29533.6,32966.4,Student
+2025-04-28,Enugu,Support,Church Network,40,10000,0.05,,165415.03,214584.97,Student
+2025-05-21,Ibadan,Workbook,Referral,51,2500,0.0,127500.0,71972.96,55527.04,Parent
+2025-01-14,Port Harcourt,Software,Online,19,25000,0.0,475000.0,207291.18,267708.82,Student
+2025-06-27,Ibadan,Training,Church Network,1,2500,0.0,2500.0,1100.67,1399.33,Corporate
+2025-02-05,Enugu,Workbook,Church Network,9,5000,0.05,42750.0,29657.03,13092.97,Parent
+2026-01-25,Port Harcourt,Software,Corporate,40,15000,0.0,600000.0,223289.58,376710.42,School
+2025-08-22,Lagos,Software,Online,24,2500,0.05,57000.0,23935.48,33064.52,School
+2025-06-26,Abuja,Consulting,Corporate,2,2500,0.0,5000.0,1894.87,3105.13,School
+2025-04-08,Enugu,Consulting,Online,28,25000,0.0,700000.0,254600.48,445399.52,Parent
+2026-01-30,Port Harcourt,Software,Corporate,49,2500,0.0,122500.0,47357.3,75142.7,School
+2025-08-05,Abuja,Training,School Visit,38,5000,0.0,190000.0,131192.99,58807.01,Church
+2026-02-19,Enugu,Consulting,Online,51,25000,0.15,1083750.0,759542.81,324207.19,Student
+2025-10-05,Port Harcourt,Software,Church Network,37,25000,0.1,832500.0,593077.62,239422.38,Parent
+2026-02-22,Abuja,Software,Corporate,4,2500,0.05,9500.0,4531.7,4968.3,Church
+2026-01-06,Lagos,Support,Church Network,3,15000,0.1,40500.0,28781.7,11718.3,Student
+2025-11-08,Enugu,Software,School Visit,43,25000,0.0,1075000.0,742955.74,332044.26,Student
+2025-05-30,Enugu,Support,Church Network,50,5000,0.1,225000.0,105689.84,119310.16,School
+2025-11-23,Port Harcourt,Consulting,Church Network,29,10000,0.1,261000.0,148014.89,112985.11,Student
+2025-05-14, Lagos ,Workbook,Online,12,10000,0.05,114000.0,66637.09,47362.91,School
+2025-12-27,Abuja,Software,Online,46,7500,0.1,310500.0,128948.49,181551.51,Church
+2025-05-12,Enugu,Software,School Visit,13,7500,0.0,97500.0,61900.39,35599.61,School
+2025-02-02,Enugu,Consulting,Corporate,43,7500,0.0,322500.0,186004.74,136495.26,Parent
+2025-02-19,Lagos,Software,School Visit,5,15000,0.15,63750.0,29885.31,33864.69,Parent
+2025-07-10,Abuja,Training,Online,24,2500,0.0,60000.0,37399.75,22600.25,Corporate
+2025-10-06,Enugu,Consulting,Online,27,10000,0.15,229500.0,118707.67,110792.33,School
+2025-05-02,Abuja,Software,Church Network,31,10000,0.0,310000.0,123346.01,186653.99,Parent
+2025-12-11,Port Harcourt,Software,Church Network,50,15000,0.0,,379180.35,370819.65,Parent
+2025-04-18,Kano,Training,School Visit,34,15000,0.1,459000.0,180539.18,278460.82,Corporate
+2025-07-18,Abuja,Support,Referral,36,5000,0.0,180000.0,90282.85,89717.15,Student
+2025-05-22,Enugu,Software,Referral,45,7500,0.0,337500.0,149535.22,187964.78,Corporate
+2025-08-23,Ibadan,Consulting,School Visit,27,2500,0.0,67500.0,25428.57,42071.43,Parent
+2025-03-21,Abuja,Software,Online,39,7500,0.0,292500.0,117930.87,174569.13,School
+2026-02-07,Lagos,Consulting,School Visit,47,7500,0.1,317250.0,123033.45,194216.55,Church
+2026-01-24,Abuja,Training,Online,2,15000,0.1,27000.0,16901.96,10098.04,School
+2025-10-21,Ibadan,Workbook,Church Network,52,15000,0.0,780000.0,524415.93,255584.07,Corporate
+2025-08-11,Enugu,Support,Church Network,47,7500,0.0,352500.0,157009.1,195490.9,Church
+2025-11-09,Port Harcourt,Support,Corporate,31,25000,0.1,697500.0,351005.12,346494.88,School
+2025-07-16,Lagos,Training,Referral,35,10000,0.0,350000.0,238982.75,111017.25,Parent
+2026-01-09,Lagos,Software,Church Network,43,5000,0.0,215000.0,102214.85,112785.15,School
+2025-01-28,Abuja,Training,Corporate,34,10000,0.0,340000.0,197443.49,142556.51,School
+2025-04-01,Port Harcourt,Support,Referral,54,7500,0.15,344250.0,212274.15,131975.85,Parent
+2025-07-11,Port Harcourt,Workbook,Corporate,36,25000,0.0,900000.0,514366.11,385633.89,Parent
+2025-10-01,Abuja,Support,Referral,2,25000,0.0,50000.0,35791.24,14208.76,School
+2025-10-24,Ibadan,Workbook,Referral,16,2500,0.0,40000.0,14926.23,25073.77,Church
+2025-10-29,Abuja,Software,School Visit,32,5000,0.0,160000.0,62366.99,97633.01,Corporate
+2026-01-30,Abuja,Training,Corporate,35,7500,0.05,249375.0,178311.06,71063.94,School
+2025-12-20,Enugu,Software,Referral,38,15000,0.0,570000.0,318804.36,251195.64,Student
+2026-01-20,Ibadan,Workbook,Corporate,40,10000,0.05,380000.0,185336.36,194663.64,Parent
+2025-05-25,Ibadan,Training,Church Network,30,25000,0.15,637500.0,445249.15,192250.85,School
+2025-10-20,Ibadan,Workbook,School Visit,6,2500,0.05,14250.0,9784.61,4465.39,Corporate
+2025-10-17,Lagos,Consulting,School Visit,17,10000,0.0,170000.0,115021.72,54978.28,Corporate
+2025-09-12,Ibadan,Training,School Visit,30,25000,0.0,750000.0,270454.69,479545.31,School
+2025-09-11,Kano,Support,School Visit,15,2500,0.0,37500.0,18783.01,18716.99,Church
+2025-08-09,Lagos,Software,Referral,26,15000,0.0,390000.0,256611.85,133388.15,Parent
+2025-06-21,Port Harcourt,Workbook,Church Network,48,10000,0.0,480000.0,242945.79,237054.21,Church
+2025-02-27,Abuja,Consulting,Online,15,2500,0.0,37500.0,22712.81,14787.19,Corporate
+2025-02-12,Ibadan,Consulting,Referral,48,2500,0.1,108000.0,70673.77,37326.23,School
+2025-01-02,Enugu,Software,School Visit,53,2500,0.05,125875.0,75539.97,50335.03,Student
+2025-05-29,Port Harcourt,Training,Corporate,8,5000,0.05,38000.0,17249.39,20750.61,Student
+2025-06-06,Lagos,Workbook,Corporate,50,15000,0.0,750000.0,461828.2,288171.8,Student
+2026-02-09,Ibadan,Consulting,Church Network,41,25000,0.0,1025000.0,716193.67,308806.33,School
+2025-04-12,Abuja,Training,Online,22,15000,0.05,313500.0,159278.31,154221.69,Church
+2025-04-01,Kano,Workbook,Church Network,38,15000,0.0,570000.0,264725.3,305274.7,Parent
+2025-01-19,Lagos,Consulting,Church Network,7,7500,0.0,52500.0,30845.64,21654.36,Parent
+2025-02-17,Abuja,Support,Corporate,25,5000,0.1,112500.0,49502.11,62997.89,Student
+2025-10-04,Port Harcourt,Software,Church Network,21,10000,0.15,178500.0,84624.34,93875.66,Parent
+2025-06-04,Kano,Consulting,Church Network,22,15000,0.1,,144948.57,152051.43,School
+2025-09-18,Ibadan,Support,Referral,45,25000,0.1,1012500.0,668329.55,344170.45,Student
+2025-02-12,Ibadan,Software,Church Network,18,10000,0.05,171000.0,106998.22,64001.78,School
+2025-11-17,Kano,Workbook,School Visit,32,25000,0.0,800000.0,533642.48,266357.52,Corporate
+2025-04-23,Ibadan,Training,Church Network,39,15000,0.1,526500.0,184942.57,341557.43,Church
+2025-01-25,Enugu,Training,Online,43,25000,0.05,1021250.0,426089.39,595160.61,Parent
+2026-01-20,Abuja,Support,Church Network,25,15000,0.0,375000.0,257957.52,117042.48,Church
+2025-06-01,Ibadan,Workbook,School Visit,43,5000,0.15,182750.0,104382.9,78367.1,Church
+2025-05-14,Abuja,Support,Corporate,37,15000,0.15,471750.0,330318.4,141431.6,Parent
+2025-01-21,Ibadan,Workbook,Corporate,10,10000,0.0,100000.0,49370.12,50629.88,Parent
+2025-09-04,Port Harcourt,Workbook,School Visit,38,15000,0.0,570000.0,242298.72,327701.28,Church
+2025-04-28,Enugu,Support,School Visit,20,5000,0.0,100000.0,58841.15,41158.85,Parent
+2025-04-11,Lagos,Workbook,Referral,53,2500,0.0,132500.0,56513.51,75986.49,School
+2025-10-11,Ibadan,Workbook,Online,44,25000,0.0,1100000.0,499615.2,600384.8,Parent
+2025-10-08,Lagos,Support,Online,37,7500,0.0,277500.0,139339.85,138160.15,School
+2025-03-03,Port Harcourt,Consulting,Online,38,10000,0.15,323000.0,203354.75,119645.25,Parent
+2025-02-23,Ibadan,Consulting,Corporate,5,2500,0.05,11875.0,6540.53,5334.47,Church
+2025-04-12,Abuja,Support,School Visit,45,25000,0.15,956250.0,534911.07,421338.93,School
+2025-11-28,Abuja,Support,Online,12,5000,0.05,57000.0,30215.57,26784.43,School
+2025-04-22,Kano,Support,Referral,41,2500,0.0,102500.0,71896.12,30603.88,School
+2025-06-27,Kano,Support,Corporate,32,5000,0.1,144000.0,103522.94,40477.06,Church
+2025-02-23,Ibadan,Training,Church Network,54,2500,0.0,135000.0,72270.36,62729.64,Parent
+2025-03-19,Lagos,Support,Referral,2,7500,0.15,12750.0,7006.46,5743.54,Corporate
+2025-10-07,Port Harcourt,Training,Referral,36,10000,0.0,360000.0,127003.88,232996.12,Church
+2025-11-15,Kano,Support,Corporate,25,5000,0.0,125000.0,79045.83,45954.17,School
+2025-12-30,Enugu,Software,School Visit,31,5000,0.05,147250.0,89683.14,57566.86,School
+2025-08-21, Lagos ,Workbook,Online,17,5000,0.0,85000.0,32165.36,52834.64,Church
+2025-04-27,Port Harcourt,Workbook,Church Network,37,2500,0.0,92500.0,36830.28,55669.72,Student
+2025-07-04,Enugu,Software,Referral,10,25000,0.0,250000.0,92780.86,157219.14,Parent
+2025-03-07,Lagos,Software,Church Network,8,10000,0.0,80000.0,40727.21,39272.79,Student
+2025-04-12,Enugu,Workbook,Church Network,3,2500,0.05,7125.0,3990.28,3134.72,Parent
+2025-07-22,Port Harcourt,Training,School Visit,6,7500,0.05,42750.0,16213.03,26536.97,Parent
+2025-11-25,Kano,Consulting,Referral,1,7500,0.0,7500.0,5261.59,2238.41,Student
+2025-04-19,Port Harcourt,Training,Church Network,19,15000,0.0,285000.0,105333.31,179666.69,Parent
+2025-06-03,Port Harcourt,Support,School Visit,10,10000,0.0,100000.0,40762.53,59237.47,Church
+2025-01-16,Port Harcourt,Support,Church Network,37,15000,0.0,555000.0,356250.09,198749.91,Corporate
+2025-01-19,Lagos,Training,Referral,51,5000,0.05,242250.0,143420.76,98829.24,Parent
+2025-08-18,Enugu,Software,Church Network,54,2500,0.0,135000.0,89672.85,45327.15,Parent
+2026-02-10,Kano,Consulting,Online,18,7500,0.0,135000.0,92576.15,42423.85,Parent
+2025-08-30,Enugu,Workbook,Referral,48,5000,0.0,240000.0,171326.29,68673.71,School
+2025-01-13,Ibadan,Support,Corporate,51,7500,0.0,382500.0,219941.09,162558.91,Corporate
+2025-08-30,Enugu,Workbook,School Visit,32,25000,0.0,800000.0,450042.03,349957.97,School
+2025-02-20,Lagos,Support,School Visit,6,25000,0.0,150000.0,53329.86,96670.14,Parent
+2025-10-18,Port Harcourt,Consulting,Church Network,4,15000,0.05,57000.0,29939.33,27060.67,Corporate
+2025-07-15,Ibadan,Consulting,Church Network,33,2500,0.0,82500.0,37461.92,45038.08,Parent
+2025-06-02,Port Harcourt,Support,Online,33,5000,0.0,165000.0,61526.13,103473.87,Church
+2025-03-29,Lagos,Support,Referral,29,2500,0.0,72500.0,42011.57,30488.43,Parent
+2025-03-15,Lagos,Software,Church Network,32,5000,0.05,152000.0,55747.14,96252.86,School
+2025-05-21,Port Harcourt,Support,School Visit,35,7500,0.0,262500.0,153063.89,109436.11,Church
+2025-07-09,Kano,Workbook,School Visit,20,5000,0.05,95000.0,67102.16,27897.84,Church
+2025-08-27,Ibadan,Software,Corporate,46,15000,0.1,621000.0,313123.14,307876.86,School
+2025-10-17,Abuja,Training,Corporate,40,2500,0.0,100000.0,59256.95,40743.05,Parent
+2026-02-07,Kano,Workbook,Corporate,22,25000,0.0,550000.0,194405.97,355594.03,School
+2025-01-14,Enugu,Software,Online,40,2500,0.05,95000.0,45751.77,49248.23,Parent
+2026-01-29,Abuja,Consulting,School Visit,36,10000,0.05,342000.0,133668.2,208331.8,Parent
+2025-08-24,Enugu,Consulting,Online,16,10000,0.1,144000.0,63930.76,80069.24,Corporate
+2025-02-01,Abuja,Training,Church Network,12,25000,0.0,300000.0,107755.31,192244.69,Corporate
+2025-12-31,Ibadan,Workbook,Referral,16,2500,0.05,38000.0,20213.63,17786.37,Corporate
+2025-12-25,Abuja,Consulting,Online,43,15000,0.0,645000.0,411251.76,233748.24,Parent
+2025-05-02,Kano,Software,Church Network,9,25000,0.0,225000.0,139662.31,85337.69,School
+2025-03-12,Lagos,Consulting,Referral,29,25000,0.05,688750.0,491815.84,196934.16,Student
+2025-05-07,Lagos,Software,Corporate,52,15000,0.0,780000.0,533195.43,246804.57,Student
+2025-12-07,Enugu,Training,School Visit,5,25000,0.1,,68799.72,43700.28,School
+2026-01-21,Abuja,Support,Online,30,2500,0.0,75000.0,47346.31,27653.69,Corporate
+2025-05-05,Enugu,Training,School Visit,16,25000,0.0,400000.0,226238.16,173761.84,Corporate
+2025-07-19,Kano,Consulting,Corporate,46,5000,0.0,230000.0,82009.92,147990.08,Corporate
+2025-10-29,Ibadan,Consulting,Referral,8,2500,0.0,20000.0,12661.85,7338.15,Student
+2025-03-17,Kano,Software,Church Network,33,2500,0.0,82500.0,47621.49,34878.51,Corporate
+2025-10-29,Lagos,Workbook,Church Network,41,25000,0.0,1025000.0,712692.15,312307.85,Student
+2025-04-05,Lagos,Software,Referral,8,7500,0.15,51000.0,21366.8,29633.2,Church
+2025-12-24,Lagos,Software,Referral,22,10000,0.1,198000.0,137571.26,60428.74,Student
+2025-02-26,Lagos,Software,Church Network,8,10000,0.1,72000.0,29532.37,42467.63,Corporate
+2026-02-16,Enugu,Workbook,Corporate,29,2500,0.0,72500.0,27099.96,45400.04,Corporate
+2025-10-30,Port Harcourt,Workbook,School Visit,1,25000,0.0,25000.0,14603.69,10396.31,Parent
+2025-04-26,Lagos,Workbook,Referral,33,2500,0.05,78375.0,36831.74,41543.26,School
+2025-12-05,Abuja,Software,School Visit,17,2500,0.15,36125.0,19763.31,16361.69,Parent
+2025-09-21,Lagos,Software,Church Network,21,2500,0.1,47250.0,23132.76,24117.24,Church
+2025-07-19,Enugu,Workbook,School Visit,43,7500,0.0,322500.0,134413.23,188086.77,Church
+2025-11-07,Kano,Support,School Visit,54,7500,0.1,364500.0,243143.64,121356.36,Corporate
+2025-10-17,Lagos,Training,Online,27,15000,0.0,405000.0,261999.21,143000.79,Corporate
+2025-02-03,Abuja,Workbook,Church Network,41,2500,0.0,102500.0,46733.33,55766.67,Church
+2025-04-07,Ibadan,Software,School Visit,21,25000,0.0,525000.0,248628.43,276371.57,Parent
+2025-10-06,Port Harcourt,Software,School Visit,36,7500,0.1,243000.0,153895.7,89104.3,Church
+2025-06-20,Abuja,Workbook,Church Network,22,25000,0.0,550000.0,285271.09,264728.91,Corporate
+2025-05-16,Port Harcourt,Support,Referral,9,2500,0.05,21375.0,13020.6,8354.4,Parent
+2025-08-17,Port Harcourt,Training,Online,47,7500,0.0,352500.0,242998.03,109501.97,Church
+2025-03-09,Kano,Training,Church Network,21,2500,0.0,52500.0,34632.53,17867.47,Student
+2026-02-17,Ibadan,Workbook,Referral,20,7500,0.05,142500.0,81383.82,61116.18,School
+2025-08-19,Port Harcourt,Software,Corporate,21,2500,0.0,52500.0,33681.68,18818.32,Parent
+2025-01-03,Ibadan,Workbook,Referral,44,7500,0.0,330000.0,138142.8,191857.2,Church
+2025-07-13,Kano,Software,Church Network,39,2500,0.05,92625.0,61309.26,31315.74,Student
+2025-11-09,Lagos,Software,Online,10,7500,0.05,71250.0,31498.7,39751.3,School
+2025-08-31,Port Harcourt,Workbook,Online,5,25000,0.0,125000.0,63312.36,61687.64,Corporate
+2025-08-03,Kano,Consulting,Corporate,34,2500,0.0,85000.0,48899.96,36100.04,Corporate
+2025-09-27,Abuja,Software,Online,8,10000,0.1,72000.0,33846.02,38153.98,Church
+2025-01-11,Enugu,Workbook,Online,9,10000,0.05,85500.0,56081.31,29418.69,Corporate
+2025-07-29,Abuja,Support,Referral,43,10000,0.0,430000.0,245060.95,184939.05,Church
+2025-06-18,Lagos,Consulting,Online,40,2500,0.1,90000.0,63125.47,26874.53,Corporate
+2026-01-16,Kano,Software,Referral,21,25000,0.0,525000.0,237938.96,287061.04,School
+2025-09-03,Kano,Software,Church Network,40,15000,0.1,540000.0,328940.05,211059.95,Student
+2025-03-16,Abuja,Workbook,Online,17,10000,0.1,153000.0,62270.81,90729.19,Church
+2025-12-25,Enugu,Support,Corporate,26,2500,0.0,65000.0,26875.82,38124.18,Parent
+2025-05-02,Ibadan,Software,Corporate,6,25000,0.0,150000.0,81116.88,68883.12,School
+2026-02-23,Lagos,Support,Referral,45,5000,0.1,202500.0,138374.69,64125.31,Church
+2025-05-30,Ibadan,Software,Referral,5,10000,0.15,42500.0,22302.08,20197.92,Student
+2025-12-23,Port Harcourt,Consulting,Online,51,5000,0.05,242250.0,134796.97,107453.03,Corporate
+2025-11-22,Enugu,Consulting,School Visit,23,7500,0.05,163875.0,115005.54,48869.46,Corporate
+2025-10-31,Abuja,Support,School Visit,17,2500,0.15,36125.0,15364.96,20760.04,Corporate
+2025-10-01,Lagos,Training,Online,25,15000,0.0,375000.0,247988.58,127011.42,Student
+2025-01-10,Enugu,Support,Corporate,34,25000,0.05,807500.0,511052.42,296447.58,School
+2025-03-28,Abuja,Support,Referral,53,7500,0.05,377625.0,225311.28,152313.72,Student
+2026-01-02,Abuja,Support,Church Network,52,15000,0.0,780000.0,382501.75,397498.25,Corporate
+2025-11-09,Ibadan,Workbook,School Visit,36,5000,0.05,171000.0,114644.82,56355.18,School
+2025-07-14,Abuja,Software,Church Network,53,2500,0.0,132500.0,93917.23,38582.77,Corporate
+2025-11-21,Abuja,Consulting,School Visit,12,2500,0.0,30000.0,14777.34,15222.66,Student
+2025-10-03, Lagos ,Training,Corporate,2,2500,0.0,5000.0,2521.57,2478.43,Student
+2025-11-20,Lagos,Consulting,Online,37,25000,0.0,925000.0,575675.67,349324.33,Parent
+2025-08-12,Ibadan,Support,Church Network,52,10000,0.05,494000.0,268766.87,225233.13,Parent
+2025-02-02,Enugu,Consulting,Church Network,1,7500,0.1,6750.0,2878.54,3871.46,Corporate
+2025-06-21,Enugu,Software,Church Network,48,5000,0.0,240000.0,163034.34,76965.66,Parent
+2025-03-31,Kano,Workbook,Corporate,41,25000,0.1,922500.0,553487.13,369012.87,School
+2025-12-29,Ibadan,Support,Corporate,41,7500,0.0,307500.0,157806.47,149693.53,Corporate
+2026-01-12,Abuja,Workbook,Referral,17,7500,0.0,127500.0,64062.42,63437.58,Parent
+2025-03-27,Enugu,Workbook,Referral,45,5000,0.0,225000.0,131234.93,93765.07,Church
+2026-01-05,Lagos,Consulting,Referral,37,2500,0.0,92500.0,42953.04,49546.96,School
+2025-05-19,Kano,Software,Online,45,10000,0.1,405000.0,234552.38,170447.62,Parent
+2025-03-28,Enugu,Training,Church Network,52,10000,0.05,494000.0,194256.28,299743.72,Student
+2025-04-25,Port Harcourt,Support,Corporate,29,15000,0.0,435000.0,215247.91,219752.09,School
+2025-08-20,Ibadan,Support,School Visit,54,2500,0.0,135000.0,87596.09,47403.91,Parent
+2025-04-11,Kano,Training,Corporate,19,25000,0.05,451250.0,181120.37,270129.63,School
+2025-04-21,Enugu,Training,Online,30,15000,0.0,450000.0,274148.83,175851.17,Corporate
+2025-10-21,Lagos,Support,Church Network,50,15000,0.05,712500.0,437597.99,274902.01,Student
+2025-06-24,Ibadan,Support,Online,4,7500,0.0,30000.0,18726.58,11273.42,Parent
+2025-10-20,Port Harcourt,Workbook,Church Network,14,7500,0.05,,36111.4,63638.6,School
+2025-01-09,Abuja,Training,Corporate,4,15000,0.0,60000.0,39346.61,20653.39,Corporate
+2025-02-10,Enugu,Training,Referral,39,7500,0.0,292500.0,130513.62,161986.38,Parent
+2025-04-29,Lagos,Workbook,Church Network,15,2500,0.0,37500.0,15532.75,21967.25,Corporate
+2025-06-02,Port Harcourt,Support,Church Network,9,5000,0.05,42750.0,16605.59,26144.41,Student
+2025-04-24,Port Harcourt,Software,School Visit,6,2500,0.05,14250.0,8133.81,6116.19,Corporate
+2025-06-16,Abuja,Training,School Visit,40,2500,0.0,100000.0,61558.17,38441.83,Student
+2026-01-22,Kano,Software,Online,16,2500,0.0,40000.0,23438.6,16561.4,Student
+2025-07-13,Ibadan,Support,Church Network,51,15000,0.0,765000.0,529073.24,235926.76,School
+2025-09-04,Lagos,Software,Corporate,48,25000,0.0,1200000.0,591480.54,608519.46,Student
+2025-11-28,Lagos,Workbook,Referral,19,7500,0.1,128250.0,49801.85,78448.15,School
+2025-03-16,Port Harcourt,Training,Referral,17,5000,0.05,,36976.88,43773.12,Student
+2025-03-02,Enugu,Software,Online,48,15000,0.0,720000.0,304622.1,415377.9,Church
+2025-06-29,Port Harcourt,Support,Referral,18,10000,0.0,180000.0,111012.17,68987.83,School
+2025-09-19,Port Harcourt,Workbook,Church Network,32,7500,0.0,240000.0,152697.54,87302.46,Church
+2025-07-27,Kano,Software,Church Network,45,7500,0.1,303750.0,160280.77,143469.23,School
+2025-02-20,Kano,Training,Corporate,47,25000,0.0,1175000.0,525405.41,649594.59,Church
+2025-09-25,Abuja,Support,Corporate,42,5000,0.05,199500.0,103483.38,96016.62,Corporate
+2026-01-24,Kano,Consulting,School Visit,33,7500,0.0,247500.0,147906.67,99593.33,Corporate
+2025-08-12,Enugu,Support,Online,18,2500,0.0,45000.0,18580.17,26419.83,Student
+2026-01-13,Enugu,Training,Online,14,10000,0.1,126000.0,68517.75,57482.25,Corporate
+2025-06-26,Abuja,Software,School Visit,28,10000,0.05,266000.0,116415.7,149584.3,School
+2025-06-18,Kano,Software,Church Network,54,5000,0.0,270000.0,171063.01,98936.99,Parent
+2025-05-11,Kano,Support,Referral,31,7500,0.1,209250.0,113943.1,95306.9,Church
+2025-08-07,Lagos,Consulting,School Visit,22,2500,0.1,49500.0,26234.61,23265.39,School
+2025-08-30,Kano,Support,Corporate,40,25000,0.05,950000.0,513667.04,436332.96,Church
+2025-02-14,Enugu,Workbook,Church Network,9,25000,0.0,225000.0,107381.66,117618.34,School
+2026-02-14,Enugu,Software,Referral,8,15000,0.0,120000.0,79933.51,40066.49,Parent
+2025-03-06,Enugu,Training,Corporate,20,5000,0.0,100000.0,35818.75,64181.25,Parent
+2025-08-21,Abuja,Software,Referral,41,15000,0.05,584250.0,262349.57,321900.43,Parent
+2025-05-11,Port Harcourt,Consulting,Online,46,5000,0.0,230000.0,107122.3,122877.7,Corporate
+2026-01-08,Enugu,Workbook,Church Network,6,2500,0.1,13500.0,5633.13,7866.87,School
+2025-09-28,Lagos,Software,Church Network,8,5000,0.15,34000.0,20542.11,13457.89,Parent
+2025-01-07,Abuja,Workbook,Corporate,32,7500,0.05,228000.0,81972.14,146027.86,Student
+2025-01-12,Abuja,Training,Online,40,10000,0.0,400000.0,230353.78,169646.22,Corporate
+2025-03-27,Port Harcourt,Software,Church Network,52,2500,0.0,130000.0,81151.22,48848.78,Student
+2025-12-11, Lagos ,Consulting,Corporate,23,25000,0.0,575000.0,259967.23,315032.77,Parent
+2025-12-30,Abuja,Software,School Visit,10,25000,0.05,237500.0,107265.98,130234.02,Corporate
+2025-08-20,Enugu,Software,Corporate,14,7500,0.0,105000.0,54463.78,50536.22,Parent
+2025-08-28,Port Harcourt,Training,Online,42,5000,0.0,210000.0,99812.95,110187.05,Student
+2025-09-29,Kano,Consulting,Online,36,10000,0.0,360000.0,161914.31,198085.69,School
+2025-07-24,Lagos,Training,Referral,22,7500,0.05,156750.0,92380.44,64369.56,Corporate
+2025-08-03,Lagos,Software,Corporate,31,10000,0.05,294500.0,132963.62,161536.38,Church
+2025-06-04,Enugu,Workbook,Church Network,13,5000,0.05,61750.0,37488.4,24261.6,Student
+2025-07-26,Enugu,Training,Church Network,31,5000,0.0,155000.0,75356.69,79643.31,Church
+2025-05-05,Lagos,Consulting,Online,28,2500,0.05,66500.0,44010.66,22489.34,Student
+2025-11-11,Abuja,Support,Corporate,9,10000,0.15,76500.0,53591.37,22908.63,Corporate
+2025-10-13,Port Harcourt,Software,Corporate,11,25000,0.1,247500.0,154225.53,93274.47,Student
+2025-10-29,Ibadan,Consulting,Referral,44,25000,0.15,935000.0,448616.44,486383.56,Student
+2025-06-03,Enugu,Support,Corporate,25,10000,0.1,225000.0,128881.69,96118.31,Parent
+2025-06-16,Lagos,Software,Referral,8,2500,0.05,19000.0,12117.85,6882.15,Student
+2025-07-02,Lagos,Consulting,Church Network,32,7500,0.0,240000.0,116125.97,123874.03,School
+2025-09-11,Lagos,Training,School Visit,27,7500,0.15,172125.0,94982.05,77142.95,Student
+2025-11-23,Ibadan,Support,Referral,42,15000,0.0,630000.0,249579.64,380420.36,School
+2025-01-04,Ibadan,Consulting,Referral,9,5000,0.0,45000.0,23848.95,21151.05,Parent
+2026-02-02,Ibadan,Consulting,Corporate,44,7500,0.15,280500.0,140899.77,139600.23,Corporate
+2025-12-29,Abuja,Consulting,Corporate,50,7500,0.15,318750.0,144235.6,174514.4,Church
+2026-02-22,Kano,Software,Church Network,48,25000,0.0,1200000.0,520886.83,679113.17,Church
+2025-04-27,Enugu,Training,Referral,9,25000,0.15,191250.0,75398.18,115851.82,Corporate
+2025-07-23,Kano,Training,Church Network,27,15000,0.0,405000.0,155069.82,249930.18,Parent
+2025-08-18,Enugu,Workbook,Corporate,19,5000,0.0,95000.0,34014.1,60985.9,School
+2025-02-28,Kano,Software,Online,50,2500,0.0,125000.0,48964.08,76035.92,School
+2025-05-31,Lagos,Software,Church Network,49,10000,0.05,465500.0,330632.3,134867.7,Student
+2025-01-11,Kano,Workbook,Church Network,49,7500,0.0,367500.0,152282.8,215217.2,Parent
+2025-02-20,Ibadan,Consulting,School Visit,47,25000,0.05,1116250.0,551110.64,565139.36,Church
+2025-07-27,Ibadan,Support,Corporate,27,2500,0.0,67500.0,48367.83,19132.17,Church
+2025-05-13,Abuja,Support,Church Network,2,10000,0.0,20000.0,9979.58,10020.42,Student
+2025-02-02,Port Harcourt,Training,Referral,6,7500,0.05,42750.0,28667.7,14082.3,School
+2025-12-17,Port Harcourt,Consulting,Church Network,13,10000,0.05,123500.0,55276.29,68223.71,Church
+2025-02-19,Lagos,Workbook,Referral,20,7500,0.0,150000.0,105631.1,44368.9,Church
+2025-04-08,Port Harcourt,Workbook,Referral,29,2500,0.0,72500.0,37265.39,35234.61,Parent
+2025-04-09,Lagos,Support,School Visit,41,15000,0.1,553500.0,329717.31,223782.69,Student
+2025-12-24,Ibadan,Workbook,Corporate,28,5000,0.0,140000.0,82597.51,57402.49,Corporate
+2025-03-17,Enugu,Support,Church Network,44,10000,0.05,418000.0,298222.38,119777.62,Parent
+2025-01-12,Lagos,Software,Referral,14,7500,0.0,105000.0,44279.42,60720.58,Student
+2025-09-26,Lagos,Consulting,Online,6,5000,0.1,27000.0,19090.21,7909.79,Parent
+2025-06-03,Abuja,Workbook,Church Network,37,5000,0.1,166500.0,116786.35,49713.65,School
